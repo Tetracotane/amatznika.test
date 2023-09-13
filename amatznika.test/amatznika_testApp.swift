@@ -1,10 +1,3 @@
-//
-//  amatznika_testApp.swift
-//  amatznika.test
-//
-//  Created by 奈良真弓 on 2023/07/20.
-//
-
 import SwiftUI
 
 @main
