@@ -1,10 +1,3 @@
-//
-//  Persistence.swift
-//  amatznika.test
-//
-//  Created by 奈良真弓 on 2023/07/20.
-//
-
 import CoreData
 
 struct PersistenceController {
